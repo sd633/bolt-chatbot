@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Tech Conference 2024",
+      "date": "2024-04-15",
+      "location": "Virtual",
+      "description": "Join us for the biggest tech conference of the year!"
+    },
+    {
+      "id": 2,
+      "name": "Music Festival 2024",
+      "date": "2024-05-20",
+      "location": "City Park",
+      "description": "Experience a day filled with great music and fun activities!"
+    }
+  ]
+  
